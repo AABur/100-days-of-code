@@ -1,6 +1,17 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code
 
-### Day 0: February 30, 2016 (Example 1)
+*See chellange details in [Rules](./rules.md)*
+## Day 1: May 5, 2021
+
+### Python project lvl3
+
+**Today's Progress**: Created simple test. Added resources directory creation
+
+**Thoughts:** I really struggled with tests, but, overall, I feel like I am slowly getting better at it.
+
+**Link to work:** [Python project lvl3](https://github.com/AABur/python-project-lvl3/tree/feature/step2_download_page_images)
+
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -18,7 +29,6 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
-
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -27,4 +37,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
